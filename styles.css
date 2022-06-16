@@ -23,6 +23,7 @@ h2 {
 }
 
 h3 {
+display: inline-block;
   margin-top: 20px;
   font-family: 'Cabin', sans-serif;
   font-size: 1rem;
@@ -62,8 +63,8 @@ p {
   color: #EAF6f6;
   border-width: 0.5rem 0 0 0;
   width: 10%;
-  display: inline-block;
   text-align: center;
+  margin: 3rem auto auto;
 }
 
 .computer {
